@@ -1,0 +1,6 @@
+{
+  "name": "Uloader",
+  "description": "Premium All-in-One Social Media Downloader",
+  "version": "1.0.0",
+  "stack": ["React", "TypeScript", "CSS"]
+}
